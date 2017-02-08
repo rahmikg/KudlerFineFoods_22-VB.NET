@@ -1,0 +1,50 @@
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.exe.config
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.exe
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.pdb
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.xml
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.Search.resources
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.MainForm.resources
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.Resources.resources
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.ViewCustomers.resources
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.vbproj.GenerateResource.Cache
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.exe
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.xml
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.pdb
+C:\Users\rahmik\Desktop\KudlerFineFoods\KudlerFineFoods\bin\x86\Debug\KudlerCustomerRegistry.mdb
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\bin\x86\Debug\KudlerCustomerRegistry.mdb
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.exe.config
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.exe
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.pdb
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.xml
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.Search.resources
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.MainForm.resources
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.Resources.resources
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.ViewCustomers.resources
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.vbproj.GenerateResource.Cache
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.exe
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.xml
+C:\Users\rahmik\Downloads\KudlerFineFoods\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.pdb
+C:\Users\rahmik\Desktop\KudlerFineFoods_22\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.exe.config
+C:\Users\rahmik\Desktop\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.exe
+C:\Users\rahmik\Desktop\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.xml
+C:\Users\rahmik\Desktop\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.pdb
+C:\Users\rahmik\Desktop\KudlerFineFoods_22\KudlerFineFoods\bin\x86\Debug\KudlerCustomerRegistry.mdb
+C:\Users\rahmik\Desktop\KudlerFineFoods_22\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.exe
+C:\Users\rahmik\Desktop\KudlerFineFoods_22\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.pdb
+C:\Users\rahmik\Desktop\KudlerFineFoods_22\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.xml
+C:\Users\rahmik\Desktop\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.MainForm.resources
+C:\Users\rahmik\Desktop\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.Resources.resources
+C:\Users\rahmik\Desktop\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.ViewCustomers.resources
+C:\Users\rahmik\Desktop\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.vbproj.GenerateResource.Cache
+C:\Users\rahmik\Desktop\VB\Kudler_Files\week 5\KudlerFineFoods_22\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.exe.config
+C:\Users\rahmik\Desktop\VB\Kudler_Files\week 5\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.exe
+C:\Users\rahmik\Desktop\VB\Kudler_Files\week 5\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.xml
+C:\Users\rahmik\Desktop\VB\Kudler_Files\week 5\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.pdb
+C:\Users\rahmik\Desktop\VB\Kudler_Files\week 5\KudlerFineFoods_22\KudlerFineFoods\bin\x86\Debug\KudlerCustomerRegistry.mdb
+C:\Users\rahmik\Desktop\VB\Kudler_Files\week 5\KudlerFineFoods_22\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.exe
+C:\Users\rahmik\Desktop\VB\Kudler_Files\week 5\KudlerFineFoods_22\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.pdb
+C:\Users\rahmik\Desktop\VB\Kudler_Files\week 5\KudlerFineFoods_22\KudlerFineFoods\bin\x86\Debug\KudlerFineFoods.xml
+C:\Users\rahmik\Desktop\VB\Kudler_Files\week 5\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.MainForm.resources
+C:\Users\rahmik\Desktop\VB\Kudler_Files\week 5\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.Resources.resources
+C:\Users\rahmik\Desktop\VB\Kudler_Files\week 5\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.ViewCustomers.resources
+C:\Users\rahmik\Desktop\VB\Kudler_Files\week 5\KudlerFineFoods_22\KudlerFineFoods\obj\x86\Debug\KudlerFineFoods.vbproj.GenerateResource.Cache
